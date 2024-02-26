@@ -1,5 +1,7 @@
 # 4geeks Random Card Generator &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
+Basic exercise of generating random cards with HTML, CSS and Javascript. This exercise is part of the complete 4Geeks Academy course.
+
 Create an algorithm that randomly builds a card on every refresh:
 
 - Every time the website refreshes, a new random card needs to show.
